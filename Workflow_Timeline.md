@@ -30,3 +30,45 @@ Install specific versions of the packages used in this analysis:
 - `est_cov_pca.r`: An R script file for estimating the covariance matrix and performing PCA.
 - `Easy_adegenet_script_and_modified_functions.R`: An R script file for advanced PCA plotting and generating `.dst` files for further analysis in SplitsTree.
 - `poly_freq.c`: C source code for calculating allele frequencies from a VCF file.
+  
+## Data
+
+### GATK:
+**Input File 1** (language: UNIX)
+- VCF File: `my_filtered_output.vcf` - The VCF file after initial filtering to include specific populations.
+
+**Output Data:**
+- `my_filtered_output.vcf`: The VCF file after initial filtering to include specific populations.
+- **Script used:**
+NEED TO ADD THIS
+
+## PCA Analysis Using Tomas Script
+
+### Input Files
+- **Script:** `tomas_script_for_PCA.r` (language: R)
+- **VCF File:** `my_filtered_output.vcf`
+  - This is the same output VCF file used for GATK processing and is reused here for outlier removal.
+
+### Process Description
+The PCA plot is generated and saved as an object within the R environment. It is not saved to a file explicitly within the script. The plot is displayed during the R session when the script is executed.
+
+### Saving the Plot
+To save the PCA plot to a file, you can add a `ggsave()` function or similar at the end of the script. This will allow you to save the plot in your desired format and location.
+
+### Script Used
+You can view and download the script used for this analysis from the following link:
+- [Tomas Script for PCA](https://github.com/thamala/polySV/blob/main/est_cov_pca.r)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
