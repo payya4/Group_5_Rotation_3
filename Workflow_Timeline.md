@@ -24,3 +24,9 @@ Install specific versions of the packages used in this analysis:
 **Other Tools:**
 - `gatk4= 4.5.0.0`
 - `gcc 14.0.0` (install using Homebrew)
+  
+## Script Files
+
+- `est_cov_pca.r`: An R script file for estimating the covariance matrix and performing PCA.
+- `Easy_adegenet_script_and_modified_functions.R`: An R script file for advanced PCA plotting and generating `.dst` files for further analysis in SplitsTree.
+- `poly_freq.c`: C source code for calculating allele frequencies from a VCF file.
