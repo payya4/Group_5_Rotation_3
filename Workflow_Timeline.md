@@ -53,7 +53,7 @@ UNIX
 - `my_filtered_output.vcf`: The VCF file after initial filtering to include specific populations.
 
 ### Script used:
-NEED TO ADD THIS
+`GATK_1.sh`
 
 ## PCA Analysis Using Tomas Script
 **Language:**
