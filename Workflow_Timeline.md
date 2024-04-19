@@ -237,8 +237,8 @@ changed default names from script by adding '_2'
 - **Script for Allele Frequencies:** 
   You can view the script used for this analysis from the following link:
     - [Script for Allele Frequencies](https://github.com/thamala/polySV/blob/main/est_cov_pca.r)
-    - This custom C program calculates allele frequencies from a VCF file. The script reads input from a specified VCF file and computes the frequency of each allele present in the dataset, outputting the results in a structured format suitable for further analysis.
-    - Need to use this script with the compiler
+        - This custom C program calculates allele frequencies from a VCF file. The script reads input from a specified VCF file and computes the frequency of each allele present in the dataset, outputting the results in a structured format suitable for further analysis.
+        - Need to use this script with the compiler
       
 - **Compiler:** gcc
   - The GCC compiler is used to compile the C program.
