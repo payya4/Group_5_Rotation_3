@@ -31,3 +31,24 @@ Includes the code and steps to conduct this project
  ### Project_Figures.txt
  - Info on the figures used in the associated presentation and report.
 
+
+## Credits and Acknowledgments
+
+This project is the result of a collaborative effort, each contributing their unique skills and expertise.
+
+### Scripts used for Data Analysis not done by the works of group 5
+- **Filip Kolar (2017)** 
+- **Sian Bray (2018)** 
+- **Levi Yant (2022)** 
+- **Ana C. da Silva** 
+  
+### Report writing
+- **Yuyun WU** 
+
+### Presentation 
+- **Yuanzhi Chen**
+
+### Github page
+- **Yasmine Alqanai (myself)**
+
+
