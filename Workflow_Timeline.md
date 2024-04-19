@@ -116,7 +116,7 @@ R
   - NJ tree based on distance analysis: `NJ.distance_tree_outgroups.tre`  
 
 ### Script Used
-ADD HERE
+`Detailed_PCA_Adgenet.sh`
   - Provided by Dr. Levi Yant
 
 ### Additional Analysis Info
@@ -178,7 +178,7 @@ R
 - PCA plots saved as PDF: `PCA_all_SNPs_ax12_1K_less_2.pdf` (changed name from script to be able to differentiate)
 
 ### Script Used
-ADD HERE
+`PCA_ADGENET.sh`
   - Provided by Dr. Levi Yant
 
 
@@ -207,7 +207,7 @@ changed default names from script by adding '_2'
 
 
 ### Script Used
-`PCA_ADGENET.sh`
+`Detailed_PCA_Adgenet.sh`
   - Provided by Dr. Levi Yant
 
 
