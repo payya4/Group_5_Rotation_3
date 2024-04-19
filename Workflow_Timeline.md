@@ -55,7 +55,7 @@ UNIX
 ### Script used:
 `GATK_1.sh`
 
-## PCA Analysis Using Tomas Script
+## PCA Analysis Using Thamala Script
 **Language:**
 R
 
@@ -71,7 +71,7 @@ To save the PCA plot to a file, you can add a `ggsave()` function or similar at 
 
 ### Script Used
 You can view the script used for this analysis from the following link:
-- [Tomas Script for PCA](https://github.com/thamala/polySV/blob/main/est_cov_pca.r)
+- [Thamala Script for PCA](https://github.com/thamala/polySV/blob/main/est_cov_pca.r)
 
 
 ## PCA Analysis Using Adegenet
@@ -146,7 +146,7 @@ UNIX
 
 
 
-## PCA Analysis Using Tomas Script Post-Outlier Removal
+## PCA Analysis Using Thamala Script Post-Outlier Removal
 **Language:**
 R
 
@@ -162,7 +162,7 @@ To save the PCA plot to a file, you can add a `ggsave()` function or similar at 
 
 ### Script Used
 You can view the script used for this analysis from the following link:
-- [Tomas Script for PCA](https://github.com/thamala/polySV/blob/main/est_cov_pca.r)
+- [Thamala Script for PCA](https://github.com/thamala/polySV/blob/main/est_cov_pca.r)
 
 
 
@@ -234,8 +234,12 @@ changed default names from script by adding '_2'
   - Contains allele frequencies calculated from the dataset after removing outliers.
 
 ### Scripts Used
-- **Script for Allele Frequencies:** `poly_freq.c`
-  - A custom C program that calculates allele frequencies from a VCF file.
+- **Script for Allele Frequencies:** 
+  You can view the script used for this analysis from the following link:
+    - [Script for Allele Frequencies](https://github.com/thamala/polySV/blob/main/est_cov_pca.r)
+    - This custom C program calculates allele frequencies from a VCF file. The script reads input from a specified VCF file and computes the frequency of each allele present in the dataset, outputting the results in a structured format suitable for further analysis.
+    - Need to use this script with the compiler
+      
 - **Compiler:** gcc
   - The GCC compiler is used to compile the C program.
 - **Script for Population Files:** Script to make tab delimited text file (with and without)
