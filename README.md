@@ -14,10 +14,10 @@ Includes the code and steps to conduct this project
 - Describes the anticipated results of the project.
 
 **Package Installation** 
-- Lists all the packages used in the project and their versions
+- Lists all the packages used in the project and their versions.
 
 **Script Files**
-- Lists the scripts used from other sources/github pages
+- Lists the scripts used and where to find them. if not provided on this page then links are provided to locate them.
 
 **Data Analysis**
 - The input and output of each step
@@ -29,5 +29,5 @@ Includes the code and steps to conduct this project
     - Links contain info on usage and installation
 
  ### Project_Figures.txt
- - Info on the figures used in the associated presentation and report
+ - Info on the figures used in the associated presentation and report.
 
