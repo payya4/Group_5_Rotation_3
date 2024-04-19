@@ -234,7 +234,7 @@ changed default names from script by adding '_2'
   - Contains allele frequencies calculated from the dataset after removing outliers.
 
 ### Scripts Used (need to prepare these scripts in the same order displayed)
-- **Scripts for Population Files:** 
+- **Scripts for Population Files:** `Pop_files.sh` (using python for this)
   - Scripts to make tab delimited text file (with and without)
   - These scripts prepare population data files for frequency calculation.
 
