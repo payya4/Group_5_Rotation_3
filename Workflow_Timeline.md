@@ -234,8 +234,9 @@ changed default names from script by adding '_2'
   - Contains allele frequencies calculated from the dataset after removing outliers.
 
 ### Scripts Used (need to prepare these scripts in the same order displayed)
-- **Script for Population Files:** Script to make tab delimited text file (with and without)
-  - This script prepares population data files for frequency calculation.
+- **Scripts for Population Files:** 
+  - Scripts to make tab delimited text file (with and without)
+  - These scripts prepare population data files for frequency calculation.
 
 - **Script for Allele Frequencies:** 
   You can view the script used for this analysis from the following link:
@@ -243,7 +244,7 @@ changed default names from script by adding '_2'
         - This custom C program calculates allele frequencies from a VCF file. The script reads input from a specified VCF file and computes the frequency of each allele present in the dataset, outputting the results in a structured format suitable for further analysis.
         - Need to use this script with the compiler
       
-- **Compiler:** gcc
+- **Compiler:** `gcc_compiler.sh`
   - The GCC compiler is used to compile the C program.
 
 ### Additional Information
