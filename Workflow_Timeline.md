@@ -267,7 +267,7 @@ The process for calculating allele frequencies uses the custom C program `poly_f
   - Note: This file is created and saved in the current working directory. You can adjust the file name and path as needed using the `pdf()` function call in the R script.
 
 ### Script Used
-
+`allele_freq_histogram.sh`
 
 
 
