@@ -1,9 +1,9 @@
 # Credit: This script includes modified functions adapted from the work of Filip Kolar 2017, with further edits by Sian Bray 2018 and Levi Yant 2022,3
 
-
+# Set the working directory
 setwd("/Users/yaz/Desktop/r3")
 
-
+# Load necessary libraries
 library(adegenet)
 library(adegraphics) #not strictly necessary for all of this (hombrew r installs will interfere)
 library(vcfR)
