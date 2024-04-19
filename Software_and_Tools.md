@@ -28,39 +28,39 @@ This file provides details about the software, tools, and websites utilized in o
   - github - https://github.com/adeverse/ade4 
   
 - MASS - Version 7.3.60
-   - github -
+   - website - https://cran.r-project.org/web/packages/MASS/index.html 
  
 - adegraphics - Version 1.0.21
-    - github -
+    - github - https://github.com/adeverse/adegraphics
   
 - geosphere - Version 1.5.18
-    - github -
+    - github - https://github.com/rspatial/geosphere
       
 - dplyr - Version 1.1.4
-    - github -
+    - github - https://github.com/tidyverse/dplyr
 
 - tidyverse - Version 2.0.0
-    - github -
+    - github - https://github.com/tidyverse/tidyverse
       
 - ape - Version 5.7.1
-    - github -
+  - website - https://cran.r-project.org/web/packages/ape/index.html
       
 
 ### Tools and Software:
 - GATK (Genome Analysis Toolkit) - Version 4.5.0.0
-  - github -
+  - github - https://github.com/broadinstitute/gatk
       
 - GCC (GNU Compiler Collection) - Version 14.0.0
-  - github -
+  - website - https://gcc.gnu.org/onlinedocs/index.html#current
       
 - Conda - Version 23.9.0
   - github - https://github.com/conda/conda?tab=readme-ov-file#installation
       
-- R - Version
-  - github -
+- R - Version 4.3.1
+  - website - https://www.r-project.org
       
 - SplitsTree - Version
-  - website - 
+  - website - https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/splitstree/ 
 
 - Terminal - Version 2.12.7
 
