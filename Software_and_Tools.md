@@ -64,6 +64,8 @@ This file provides details about the software, tools, and websites utilized in o
 
 - Terminal - Version 2.12.7
 
+- Python -Version 3.12.0
+
 
 
 
