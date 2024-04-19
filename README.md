@@ -13,13 +13,13 @@ Includes the code and steps to conduct this project
 **Expected Outcomes:**
 - Describes the anticipated results of the project.
 
-### Package Installation 
+**Package Installation** 
 - Lists all the packages used in the project and their versions
 
-### Script Files
+**Script Files**
 - Lists the scripts used from other sources/github pages
 
-### Data Analysis
+**Data Analysis**
 - The input and output of each step
 - The names of the scripts for each step
   
