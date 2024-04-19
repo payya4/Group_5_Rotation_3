@@ -142,7 +142,7 @@ UNIX
 - `my_filtered_output_no_outliers.vcf`: The VCF file after initial filtering to include specific populations.
 
 ### Script Used
-ADD HERE
+`GATK_2.sh`
 
 
 
