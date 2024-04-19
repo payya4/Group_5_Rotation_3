@@ -8,7 +8,7 @@ This project addresses the genomic analysis of *A. lyrata* species to understand
 - Phylogenetic and Network Analysis: Using tools like SplitsTree to create phylogenetic networks from distance matrices generated from SNP data. This approach provides a graphical representation of the genetic relationships and can reveal complex patterns of hybridization and horizontal gene transfer that are not evident from traditional phylogenetic trees.
 - Data Comparison: Comparing datasets with and without certain populations (outliers) to assess their impact on the overall genetic analysis. This includes evaluating allele frequencies and using statistical methods to discern differences in genetic diversity and structure.
 
-# Expected outcome:
+# Expected Outcome:
 To gain a comprehensive understanding of the genetic landscape of A. lyrata, insights into the genetic diversity within and between populations, and clarity on how hybridization and other factors have shaped the current genetic structure of these populations. 
 
 # Package Installation
@@ -40,7 +40,7 @@ Install specific versions of the packages used in this analysis:
 - `Easy_adegenet_script_and_modified_functions.R`: An R script file for advanced PCA plotting and generating `.dst` files for further analysis in SplitsTree.
 - `poly_freq.c`: C source code for calculating allele frequencies from a VCF file.
   
-# Data
+# Data Analysis Steps
 
 ## GATK Variant Filtering:
 **Language:**
