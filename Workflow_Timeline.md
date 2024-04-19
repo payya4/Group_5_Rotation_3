@@ -233,7 +233,10 @@ changed default names from script by adding '_2'
 - Allele Frequency Output (Without Outliers): `freq_without`
   - Contains allele frequencies calculated from the dataset after removing outliers.
 
-### Scripts Used
+### Scripts Used (need to prepare these scripts in the same order displayed)
+- **Script for Population Files:** Script to make tab delimited text file (with and without)
+  - This script prepares population data files for frequency calculation.
+
 - **Script for Allele Frequencies:** 
   You can view the script used for this analysis from the following link:
     - [Script for Allele Frequencies](https://github.com/thamala/polySV/blob/main/est_cov_pca.r)
@@ -242,8 +245,6 @@ changed default names from script by adding '_2'
       
 - **Compiler:** gcc
   - The GCC compiler is used to compile the C program.
-- **Script for Population Files:** Script to make tab delimited text file (with and without)
-  - This script prepares population data files for frequency calculation.
 
 ### Additional Information
 The process for calculating allele frequencies uses the custom C program `poly_freq.c`, which operates with command-line parameters. This program requires the installation of gcc for compilation. The process provides allele frequency outputs for datasets with and without outliers, allowing for comparative analysis of genetic variation influenced by population structure.
