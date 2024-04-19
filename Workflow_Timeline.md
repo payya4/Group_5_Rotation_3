@@ -2,6 +2,15 @@
 
 This project addresses the genomic analysis of *A. lyrata* species to understand the genetic diversity, structure, and evolutionary aspects. The analysis includes the identification of population structures, allele frequency estimation, and the investigation of hybrids. The expected outcomes are detailed PCA plots, population structure inferences, and allele frequency distributions across different populations.
 
+# Objectives:
+- Dataset Filtering: Filtering a Variant Call Format (VCF) file to include only specific populations of interest using the Genome Analysis Toolkit (GATK). This step is crucial to focus on the relevant genetic information that pertains to the project.
+- Principal Component Analysis (PCA): Conducting PCA to investigate the genetic structure and identify the main components of genetic variation among the populations. This will help in visualizing the genetic distances and relationships between groups.
+- Phylogenetic and Network Analysis: Using tools like SplitsTree to create phylogenetic networks from distance matrices generated from SNP data. This approach provides a graphical representation of the genetic relationships and can reveal complex patterns of hybridization and horizontal gene transfer that are not evident from traditional phylogenetic trees.
+- Data Comparison: Comparing datasets with and without certain populations (outliers) to assess their impact on the overall genetic analysis. This includes evaluating allele frequencies and using statistical methods to discern differences in genetic diversity and structure.
+
+# Expected outcome:
+To gain a comprehensive understanding of the genetic landscape of A. lyrata, insights into the genetic diversity within and between populations, and clarity on how hybridization and other factors have shaped the current genetic structure of these populations. 
+
 # Package Installation
 
 Install specific versions of the packages used in this analysis:
