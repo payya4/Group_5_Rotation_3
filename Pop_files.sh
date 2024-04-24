@@ -3,7 +3,6 @@
 # List of your sample names, ensuring proper format for easy parsing
 sample_names = [
     "KAG-01tl", "KAG-02tl",
-    # Add the rest of your sample names here
     "KAG-03tl", "MOD-01tl", "FRE-01tl"
 ]
 
