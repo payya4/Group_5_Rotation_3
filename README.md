@@ -40,7 +40,8 @@ This project is the result of a collaborative effort, each contributing their un
 - **Filip Kolar** 
 - **Sian Bray** 
 - **Levi Yant** 
-- **Ana C. da Silva** 
+- **Ana C. da Silva**
+- **Tuomas Hämälä** 
   
 ### Report writing
 - **Yuyun WU** 
