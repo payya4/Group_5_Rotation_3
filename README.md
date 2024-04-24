@@ -28,8 +28,6 @@ Includes the code and steps to conduct this project
 - Links to websites/github pages associated with the tools/software used
     - Links contain info on usage and installation
 
- ### Project_Figures.txt
- - Info on the figures used in the associated presentation and report.
 
 
 ## Credits and Acknowledgments
