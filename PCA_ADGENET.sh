@@ -1,4 +1,4 @@
-# Credit: This script includes modified functions adapted from the work of Filip Kolar 2017, with further edits by Sian Bray 2018 and Levi Yant 2022,3
+# Credit: Script provided by Levi Yant which includes modified functions adapted from the work of Filip Kolar 2017, with further edits by Sian Bray 2018 and Levi Yant 2022.
 
 # Set the working directory
 setwd("/Users/yaz/Desktop/r3")
